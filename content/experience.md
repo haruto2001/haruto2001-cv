@@ -1,6 +1,6 @@
 ---
 title: 'Experience'
-date: 2023-10-24
+date: 2024-10-13
 type: landing
 
 design:
@@ -23,7 +23,7 @@ sections:
       title: Skills & Hobbies
       username: admin
     design:
-      show_skill_percentage: false
+      show_skill_percentage: true
   - block: resume-awards
     content:
       title: Awards
